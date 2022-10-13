@@ -1,4 +1,4 @@
-Hello my name is caeyon.
-I like hamburger. 
+Hello...
+I like chicken. 
 This file's purpose is to practice branch.
 Brance is very useful
